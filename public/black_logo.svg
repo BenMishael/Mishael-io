@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 631.17 584.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Super_Soft_Black_Vignette);
+      }
+
+      .cls-2 {
+        fill: url(#Super_Soft_Black_Vignette-6);
+      }
+
+      .cls-3 {
+        fill: url(#Super_Soft_Black_Vignette-4);
+      }
+
+      .cls-4 {
+        fill: url(#Super_Soft_Black_Vignette-2);
+      }
+
+      .cls-5 {
+        fill: url(#Super_Soft_Black_Vignette-7);
+      }
+
+      .cls-6 {
+        fill: url(#Super_Soft_Black_Vignette-9);
+      }
+
+      .cls-7 {
+        fill: url(#Super_Soft_Black_Vignette-8);
+      }
+
+      .cls-8 {
+        fill: url(#Super_Soft_Black_Vignette-3);
+      }
+
+      .cls-9 {
+        fill: url(#Super_Soft_Black_Vignette-5);
+      }
+    </style>
+    <radialGradient id="Super_Soft_Black_Vignette" data-name="Super Soft Black Vignette" cx="315.65" cy="346.91" fx="315.65" fy="346.91" r="252.01" gradientUnits="userSpaceOnUse">
+      <stop offset=".57" stop-color="#130c0e"/>
+      <stop offset=".8" stop-color="#130c0e"/>
+      <stop offset="1" stop-color="#130c0e"/>
+    </radialGradient>
+    <radialGradient id="Super_Soft_Black_Vignette-2" data-name="Super Soft Black Vignette" cx="477.73" cy="404.26" fx="477.73" fy="404.26" r="96.28" xlink:href="#Super_Soft_Black_Vignette"/>
+    <radialGradient id="Super_Soft_Black_Vignette-3" data-name="Super Soft Black Vignette" cx="153.44" cy="404.26" fx="153.44" fy="404.26" r="96.28" xlink:href="#Super_Soft_Black_Vignette"/>
+    <radialGradient id="Super_Soft_Black_Vignette-4" data-name="Super Soft Black Vignette" cx="583.09" cy="346" fx="583.09" fy="346" r="140.48" xlink:href="#Super_Soft_Black_Vignette"/>
+    <radialGradient id="Super_Soft_Black_Vignette-5" data-name="Super Soft Black Vignette" cx="315.59" cy="213.49" fx="315.59" fy="213.49" r="178.7" xlink:href="#Super_Soft_Black_Vignette"/>
+    <radialGradient id="Super_Soft_Black_Vignette-6" data-name="Super Soft Black Vignette" cx="48.08" cy="346" fx="48.08" fy="346" r="140.48" xlink:href="#Super_Soft_Black_Vignette"/>
+    <radialGradient id="Super_Soft_Black_Vignette-7" data-name="Super Soft Black Vignette" cx="315.65" cy="83.34" fx="315.65" fy="83.34" r="64.74" xlink:href="#Super_Soft_Black_Vignette"/>
+    <radialGradient id="Super_Soft_Black_Vignette-8" data-name="Super Soft Black Vignette" cx="114.21" cy="568.86" fx="114.21" fy="568.86" r="68.37" xlink:href="#Super_Soft_Black_Vignette"/>
+    <radialGradient id="Super_Soft_Black_Vignette-9" data-name="Super Soft Black Vignette" cx="517.03" cy="568.86" fx="517.03" fy="568.86" r="68.37" xlink:href="#Super_Soft_Black_Vignette"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <path class="cls-1" d="m453.7,145.41l-138.12,307.33L177.47,145.41c-9.64-21.76-31.34-35.8-55.29-35.8H49.75c21.06,1.93,50.08,10,72.86,49.24l8.32,14.36,184.65,411,184.75-411.21,8.24-14.15c22.7-39.23,51.82-47.29,72.98-49.23h-72.56c-23.83,0-45.53,14.05-55.29,35.8Z"/>
+      <polygon class="cls-4" points="456.5 538.75 498.96 538.75 498.96 269.77 456.5 364.33 456.5 538.75"/>
+      <polygon class="cls-8" points="132.21 538.75 174.67 538.75 174.67 364.33 132.21 269.77 132.21 538.75"/>
+      <path class="cls-3" d="m535,232.36v306.39h45.38v-90.92c0-.25-.03-.51-.05-.76-.04-.51-.08-1.01-.08-1.52l.51-216.11c0-34.92,5.79-74.92,50.42-76.2h-41.9c-42.09,0-54.26,17.75-54.26,79.12Z"/>
+      <path class="cls-9" d="m204.66,116.75l8.33,14.36,102.59,228.37,102.81-228.79,8.12-13.95c25.56-44.04,75.38-48.11,95.27-49.02l.1-.22h-79.86c-23.83,0-45.54,14.05-55.29,35.8l-71.16,156.44-71.01-156.42c-9.76-21.76-31.52-35.82-55.42-35.82h-79.85l.1.21c21.24.95,69.69,4.82,95.28,49.03Z"/>
+      <path class="cls-2" d="m42.02,153.24H0c44.62,1.28,50.41,41.29,50.41,76.2v4.95l.51,150.14.12,61.01c0,.51-.04,1.01-.08,1.51-.02.26-.05.52-.05.78v90.92h45.25V232.36c0-61.37-12.14-79.12-54.14-79.12Z"/>
+      <polygon class="cls-5" points="315.59 0 277.74 83.34 315.59 166.69 353.56 83.34 315.59 0"/>
+      <polygon class="cls-7" points="210.46 578.03 17.96 578.03 30.65 559.68 197.77 559.68 210.46 578.03"/>
+      <polygon class="cls-6" points="613.28 578.03 420.78 578.03 433.47 559.68 600.59 559.68 613.28 578.03"/>
+    </g>
+  </g>
+</svg>
